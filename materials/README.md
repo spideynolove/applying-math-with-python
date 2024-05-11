@@ -72,3 +72,14 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
 <p align="center"> <a href="https://packt.link/free-ebook/9781804618370">https://packt.link/free-ebook/9781804618370 </a> </p>
+
+### Prompt
+
+```text
+When and why to ________________________ , especially in AI and deep learning. explain concisely in a maximum of 13 bullet points while being easy enough for a 13 year old to understand.
+
+From now on, when I ask a question, please explain briefly in a maximum of 13 bullet points and be easy enough for a 13 year old to understand. 
+
+When and why to use "________________________" be special in AI and deep learning.
+
+```
