@@ -1,3 +1,4 @@
+import numpy as np
 import random
 
 
@@ -10,3 +11,7 @@ def generate_numbers(range_=144, sub_=13, change_sign_count=5):
     for idx in indices_to_change:
         selected_elements[idx] = -selected_elements[idx]
     return selected_elements
+
+
+def make_shape(processed_list, shape=(3, 3)):
+    return np.array(processed_list).reshape(shape).tolist()
