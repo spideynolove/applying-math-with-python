@@ -1,0 +1,11 @@
+jaxlib==0.4.9
+jax==0.4.9
+scikit-learn<1.4     # ok with Python (< 3.9)
+# scikit-image
+nashpy
+shapely
+esig
+prophet
+statsmodels
+bokeh
+networkx
